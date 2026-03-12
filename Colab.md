@@ -19,4 +19,4 @@ Paso 8. Guardar o compartir el notebook con otras personas para trabajar de form
 Esta herramienta es muy útil para ingenieros porque permite realizar cálculos, simulaciones y análisis de datos desde cualquier computadora con acceso a internet. 
 
 Aplicacion Practica:
-Grafico realizado en Colab, https://colab.research.google.com/drive/1RJc8OCb1GOQdXs_1MlRo9LqbT25VTmKb?usp=sharing
+Grafico realizado en Colab, (https://colab.research.google.com/drive/1RJc8OCb1GOQdXs_1MlRo9LqbT25VTmKb?usp=sharing)
