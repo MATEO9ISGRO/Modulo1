@@ -1,4 +1,5 @@
 Paso 1. Ingresar a la página de Google Colab: https://colab.research.google.com/
+
 Paso 2. Iniciar sesión con una cuenta de Google.
 Paso 3. Crear un nuevo notebook (cuaderno de código) presionando “Nuevo cuaderno / New Notebook”.
 Paso 4. En el notebook se abre una ventana de código pública y gratuita donde se puede escribir y ejecutar programas.
